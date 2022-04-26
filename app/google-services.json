@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094822329310",
+    "project_id": "coderoute-5da7d",
+    "storage_bucket": "coderoute-5da7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094822329310:android:01c6af5236f199ee1dbb4f",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094822329310-p0mhn8m658663o6j2i6qqcpi96cnjc0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVexQwIqOJzepyuwejnufdeZpQ7A9wTb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094822329310-p0mhn8m658663o6j2i6qqcpi96cnjc0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
